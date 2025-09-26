@@ -52,16 +52,6 @@
 
 
 ---
-<div align="center"> 
-  
-## 📊 Estadísticas de GitHub  
-
-<div align="center">
-  
-![Lucy’s GitHub stats](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&bg_color=0d1b2a&text_color=ffffff&icon_color=4da8da&title_color=73c2fb)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&bg_color=0d1b2a&text_color=ffffff&icon_color=4da8da&title_color=73c2fb)
-
----
 
 ## 📂 Proyectos destacados  
 - [🎨 Proyecto Diseño UI](https://github.com/TuUsuario/Proyecto1) → Mockups y prototipos creativos.  
