@@ -1,7 +1,7 @@
 ## 🐰 Hola, soy Lucy 🐇  
 🦾 *¡Bienvenido a mi perfil!* ⚙️  
 
-![portada](portada base github.png)
+![portada](https://github.com/lucyfannia/lucyfannia/blob/main/portada%20base%20github.png)
 
 ---
 
