@@ -8,7 +8,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucy_Arzate-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/lucy-arzate-qaengineering-designer/) 
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-34A853?style=social&logo=googledrive)](https://drive.google.com/drive/home)
-[![Email](https://img.shields.io/badge/Email-c14438?style=social&logo=gmail)](mailto:lucy.laboral@gmail.com)
+[![Email](https://img.shields.io/badge/Email-c14438?style=social&logo=gmail)](mailto:-lucy.laboral@gmail.com)
 
 [![Atlassian](https://img.shields.io/badge/Atlassian-Lucy_Arzate-blue?style=social&logo=atlassian)](https://home.atlassian.com/o/9b895ee4-d531-4807-ae23-9ca442a5f907/people/712020:564f0d6d-1c05-43f0-8d02-321cb97cb70d?cloudId=b055bd03-cd2a-42d3-823d-043e1da8bb8f) 
 [![Discord](https://img.shields.io/badge/Discord-lucyarzate_14590-7289DA?style=social&logo=discord)](https://discord.com/users/lucyarzate_14590) 
