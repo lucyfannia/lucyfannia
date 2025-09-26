@@ -5,6 +5,7 @@
 </div>   
 
 ![portada](https://github.com/lucyfannia/lucyfannia/blob/main/portada%20base%20github.png)
+![portada](https://github.com/lucyfannia/lucyfannia/blob/main/portada%20base%20github.png)
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucy_Arzate-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/lucy-arzate-qaengineering-designer/) 
