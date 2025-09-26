@@ -53,10 +53,10 @@
 
 ---
 
-## 📂 Proyectos destacados  
-- [🎨 Proyecto Diseño UI](https://github.com/TuUsuario/Proyecto1) → Mockups y prototipos creativos.  
-- [🧪 Proyecto QA Testing](https://github.com/TuUsuario/Proyecto2) → Casos de prueba y automatización.  
-
+📂 Proyectos destacados  
+🎨 Proyecto Diseño UI → Mockups y prototipos creativos.  
+🧪 Proyecto QA Testing → [Casos de prueba y automatización](https://github.com/lucyfannia/QA-Postman-4to-sprint/blob/main/README.md)
+ 
 ---
 
 ## 🌐 Conecta conmigo  
