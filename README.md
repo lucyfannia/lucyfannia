@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=3c8cb3&size=40&lines=Hola+soy+Lucy🐇)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=3c8cb3&size=40&lines=Hola+soy+Lucy🐰)](https://git.io/typing-svg)
   <h1 align="center">🦾 ¡Bienvenido a mi perfil! ⚙️</h1>
 </div>   
 
