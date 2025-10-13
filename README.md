@@ -35,7 +35,10 @@
   
 ## 🛠️ Tecnologías 
 </div>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Logo" width="100"/>
+  
 <p align="left">
   <!-- Diseño / Multimedia -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" alt="Photoshop"/>
