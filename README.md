@@ -4,7 +4,7 @@
   <h1 align="center">🦾 ¡Bienvenido a mi perfil! ⚙️</h1>
 </div>   
 
-![portada](https://github.com/lucyfannia/lucyfannia/blob/main/portada%20github.png)
+![portada](https://github.com/lucyfannia/lucyfannia/raw/main/portada%20github.png)
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucy_Arzate-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/lucy-arzate-qaengineering-designer/) 
